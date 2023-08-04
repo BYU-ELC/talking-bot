@@ -56,4 +56,7 @@ sudo apt install libclblast-dev
 ```
 Althought that's good enough for me, that's not the *best* implementation, apparently. You can check the link for a better installation. I tried compiling it from the source code and got stuck with some missing headers.
 
-## 
+## DEV NOTES
+### Test quote:
+I'm using this quote to compare the normal and CLBlast-version stream example.
+> Non-magic people (more commonly known as Muggles) were particularly afraid of magic in medieval times, but not very good at recognizing it. On the rare occasion that they did catch a real witch or wizard, burning had no effect whatsoever. The witch or wizard would perform a basic Flame Freezing Charm and then pretend to shriek with pain while enjoying a gentle, tickling sensation. Indeed, Wendelin the Weird enjoyed being burned so much that she allowed herself to be caught no less than forty seven times in various disguises.

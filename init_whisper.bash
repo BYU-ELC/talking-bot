@@ -3,10 +3,6 @@
 # Created for the BYU ECEn Shop
 # Created on Aug 3, 2023
 
-# Use this script to initialize the project
-# Follow up this script with the appropriate init scripts for
-# whisper.cpp and llama.cpp
-
 printf "creating whisper.cpp folder"
 mkdir whisper.cpp
 cd whisper.cpp
