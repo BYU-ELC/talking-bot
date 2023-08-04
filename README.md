@@ -12,9 +12,9 @@ In addition, make sure to run the commands necessary to unlock full gpu potentia
 
 ### Notes on the bash scripts in the directory
 
-**init_whisper.bash**: this script downloads whisper.cpp from the git repository, its base model (average size), and compiles the *main* program. Run with `./init_whisper.bash`.
-**init_llama.bash**: this script downloads llama.cpp from the git repository, downloads its 7B model (the lightest one), and compiles the program. **NOTE** that the model can take up to around 20-30 GB of storage **AND** this script will run for *hours*. Run with `./init_llama.bash`.
-**downloadmodels.bash**: this script downloads the llama.cpp models from a bittorrent endpoint (I think). I've got it setup to *only* download the 7B model because it's the smallest one. Run with `./downloadmodels.bash`.
+**init_whisper.bash**: this script downloads whisper.cpp from the git repository, its base model (average size), and compiles the *main* program. Run with `bash init_whisper.bash`.
+**init_llama.bash**: this script downloads llama.cpp from the git repository, downloads its 7B model (the lightest one), and compiles the program. **NOTE** that the model can take up to around 20-30 GB of storage **AND** this script will run for *hours*. Run with `bash init_llama.bash`.
+**downloadmodels.bash**: this script downloads the llama.cpp models from a bittorrent endpoint (I think). I've got it setup to *only* download the 7B model because it's the smallest one. Run with `bash downloadmodels.bash`.
 
 ## Instructions [Incomplete]
 

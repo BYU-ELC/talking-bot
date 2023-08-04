@@ -5,15 +5,15 @@
 # Follow up this script with the appropriate init scripts for
 # whisper.cpp and llama.cpp
 
-echo "creating whisper.cpp folder"
+printf "creating whisper.cpp folder"
 mkdir whisper.cpp
 cd whisper.cpp
 
-echo "\n\ncloning whisper.cpp project"
+printf "\n\ncloning whisper.cpp project"
 git clone https://github.com/ggerganov/whisper.cpp.git
-echo "\n\ndone cloning whisper.cpp project"
+printf "\n\ndone cloning whisper.cpp project"
 
-echo "\n\ngenerating base model for whisper and compiling"
+printf "\n\ngenerating base model for whisper and compiling"
 
 cd whisper.cpp
 
