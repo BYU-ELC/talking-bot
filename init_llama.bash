@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Created for the BYU ECEn Shop
 # Created on Aug 3, 2023
 
