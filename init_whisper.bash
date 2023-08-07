@@ -3,9 +3,9 @@
 # Created for the BYU ECEn Shop
 # Created on Aug 3, 2023
 
-printf "creating whisper.cpp folder"
-mkdir whisper.cpp
-cd whisper.cpp
+# printf "creating whisper.cpp folder"
+# mkdir whisper.cpp
+# cd whisper.cpp
 
 printf "\n\ncloning whisper.cpp project"
 git clone https://github.com/ggerganov/whisper.cpp.git
