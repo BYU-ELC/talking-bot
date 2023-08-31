@@ -29,3 +29,5 @@ python3 convert.py models/7B/
 
 printf ">>> quantizing models"
 ./quantize ./models/7B/ggml-model-f16.gguf ./models/7B/ggml-model-q4_0.gguf q4_0
+
+printf ">>> FINIHSED :D"
